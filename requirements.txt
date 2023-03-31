@@ -1,0 +1,9 @@
+requests==2.27.1
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+seaborn
+sklearn
+streamlit
